@@ -3,6 +3,9 @@ function minDate(dates) {
 }
 
 // Do not change the code
+ function minDate(dates) {
+ 	
+ }
 
 var dates = [
   "2023/03/01",
